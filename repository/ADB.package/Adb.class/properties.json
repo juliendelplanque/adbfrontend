@@ -1,0 +1,14 @@
+{
+	"category" : "ADB-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/23/2014 11:17",
+	"instvars" : [
+		"args" ],
+	"name" : "Adb",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

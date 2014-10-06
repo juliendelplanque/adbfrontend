@@ -1,0 +1,14 @@
+{
+	"category" : "ADB-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/18/2014 07:46",
+	"instvars" : [
+		 ],
+	"name" : "BadPortNumberException",
+	"pools" : [
+		 ],
+	"super" : "Exception",
+	"type" : "normal" }

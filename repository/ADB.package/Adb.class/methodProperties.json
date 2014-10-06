@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createCommand" : "JulienDelplanque 9/22/2014 15:00",
+		"devices" : "JulienDelplanque 9/22/2014 14:47",
+		"emu:" : "JulienDelplanque 9/22/2014 14:46",
+		"executeCommand" : "JulienDelplanque 9/22/2014 15:01",
+		"initialize" : "JulienDelplanque 9/22/2014 14:45",
+		"shell:" : "JulienDelplanque 9/22/2014 14:47",
+		"specifyDevice:" : "JulienDelplanque 9/22/2014 14:48" } }

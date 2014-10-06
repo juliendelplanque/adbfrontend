@@ -1,0 +1,14 @@
+{
+	"category" : "ADB-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AdbTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
