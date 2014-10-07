@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfADB",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 10/7/2014 11:34",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfADB",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
