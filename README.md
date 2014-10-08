@@ -18,7 +18,7 @@ Add ADB as a dependency of your project by adding the following to your metacell
 
 ~~~
 spec baseline: 'ADB' with: [
-    spec repository: 'github://fstephany/adbfrontend/repository' ].
+    spec repository: 'github://juliendelplanque/adbfrontend/repository' ].
 ~~~
 
 Exemple:
